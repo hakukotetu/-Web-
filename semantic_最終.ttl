@@ -1,0 +1,275 @@
+<http://example.org/hoiku2>
+        <http://example.org/保育所在籍児童数［人］>
+                "24400" ;
+        <http://example.org/保育所数［箇所］>  "267" ;
+        <http://example.org/年度（西暦）>    "2003" ;
+        <http://example.org/待機児童数［人］>  "1123" ;
+        <http://example.org/横浜保育室在籍児童数［人］>
+                "3660" ;
+        <http://example.org/横浜保育室数［箇所］>
+                "136" ;
+        <http://example.org/﻿年度（和暦）>   "平成15" .
+
+<http://example.org/hoiku8>
+        <http://example.org/保育所在籍児童数［人］>
+                "36652" ;
+        <http://example.org/保育所数［箇所］>  "420" ;
+        <http://example.org/年度（西暦）>    "2009" ;
+        <http://example.org/待機児童数［人］>  "1290" ;
+        <http://example.org/横浜保育室在籍児童数［人］>
+                "3798" ;
+        <http://example.org/横浜保育室数［箇所］>
+                "124" ;
+        <http://example.org/﻿年度（和暦）>   "平成21" .
+
+<http://example.org/hoiku14>
+        <http://example.org/保育所在籍児童数［人］>
+                "54992" ;
+        <http://example.org/保育所数［箇所］>  "797" ;
+        <http://example.org/年度（西暦）>    "2015" ;
+        <http://example.org/待機児童数［人］>  "8" ;
+        <http://example.org/横浜保育室在籍児童数［人］>
+                "3703" ;
+        <http://example.org/横浜保育室数［箇所］>
+                "119" ;
+        <http://example.org/﻿年度（和暦）>   "平成27" .
+
+<http://example.org/hoiku23>
+        <http://example.org/保育所在籍児童数［人］>
+                "71378" ;
+        <http://example.org/保育所数［箇所］>  "1207" ;
+        <http://example.org/年度（西暦）>    "2024" ;
+        <http://example.org/待機児童数［人］>  "5" ;
+        <http://example.org/横浜保育室在籍児童数［人］>
+                "323" ;
+        <http://example.org/横浜保育室数［箇所］>
+                "10" ;
+        <http://example.org/﻿年度（和暦）>   "令和6" .
+
+<http://example.org/hoiku1>
+        <http://example.org/保育所在籍児童数［人］>
+                "23401" ;
+        <http://example.org/保育所数［箇所］>  "258" ;
+        <http://example.org/年度（西暦）>    "2002" ;
+        <http://example.org/待機児童数［人］>  "1140" ;
+        <http://example.org/横浜保育室在籍児童数［人］>
+                "3324" ;
+        <http://example.org/横浜保育室数［箇所］>
+                "124" ;
+        <http://example.org/﻿年度（和暦）>   "平成14" .
+
+<http://example.org/hoiku7>
+        <http://example.org/保育所在籍児童数［人］>
+                "34259" ;
+        <http://example.org/保育所数［箇所］>  "402" ;
+        <http://example.org/年度（西暦）>    "2008" ;
+        <http://example.org/待機児童数［人］>  "707" ;
+        <http://example.org/横浜保育室在籍児童数［人］>
+                "3626" ;
+        <http://example.org/横浜保育室数［箇所］>
+                "128" ;
+        <http://example.org/﻿年度（和暦）>   "平成20" .
+
+<http://example.org/hoiku13>
+        <http://example.org/保育所在籍児童数［人］>
+                "50548" ;
+        <http://example.org/保育所数［箇所］>  "611" ;
+        <http://example.org/年度（西暦）>    "2014" ;
+        <http://example.org/待機児童数［人］>  "20" ;
+        <http://example.org/横浜保育室在籍児童数［人］>
+                "4395" ;
+        <http://example.org/横浜保育室数［箇所］>
+                "149" ;
+        <http://example.org/﻿年度（和暦）>   "平成26" .
+
+<http://example.org/hoiku19>
+        <http://example.org/保育所在籍児童数［人］>
+                "68512" ;
+        <http://example.org/保育所数［箇所］>  "1106" ;
+        <http://example.org/年度（西暦）>    "2020" ;
+        <http://example.org/待機児童数［人］>  "27" ;
+        <http://example.org/横浜保育室在籍児童数［人］>
+                "1238" ;
+        <http://example.org/横浜保育室数［箇所］>
+                "38" ;
+        <http://example.org/﻿年度（和暦）>   "令和2" .
+
+<http://example.org/hoiku22>
+        <http://example.org/保育所在籍児童数［人］>
+                "71236" ;
+        <http://example.org/保育所数［箇所］>  "1196" ;
+        <http://example.org/年度（西暦）>    "2023" ;
+        <http://example.org/待機児童数［人］>  "10" ;
+        <http://example.org/横浜保育室在籍児童数［人］>
+                "370" ;
+        <http://example.org/横浜保育室数［箇所］>
+                "12" ;
+        <http://example.org/﻿年度（和暦）>   "令和5" .
+
+<http://example.org/hoiku6>
+        <http://example.org/保育所在籍児童数［人］>
+                "33442" ;
+        <http://example.org/保育所数［箇所］>  "383" ;
+        <http://example.org/年度（西暦）>    "2007" ;
+        <http://example.org/待機児童数［人］>  "576" ;
+        <http://example.org/横浜保育室在籍児童数［人］>
+                "3657" ;
+        <http://example.org/横浜保育室数［箇所］>
+                "133" ;
+        <http://example.org/﻿年度（和暦）>   "平成19" .
+
+<http://example.org/hoiku12>
+        <http://example.org/保育所在籍児童数［人］>
+                "47072" ;
+        <http://example.org/保育所数［箇所］>  "580" ;
+        <http://example.org/年度（西暦）>    "2013" ;
+        <http://example.org/待機児童数［人］>  "0" ;
+        <http://example.org/横浜保育室在籍児童数［人］>
+                "4364" ;
+        <http://example.org/横浜保育室数［箇所］>
+                "156" ;
+        <http://example.org/﻿年度（和暦）>   "平成25" .
+
+<http://example.org/hoiku18>
+        <http://example.org/保育所在籍児童数［人］>
+                "66477" ;
+        <http://example.org/保育所数［箇所］>  "1063" ;
+        <http://example.org/年度（西暦）>    "2019" ;
+        <http://example.org/待機児童数［人］>  "46" ;
+        <http://example.org/横浜保育室在籍児童数［人］>
+                "1590" ;
+        <http://example.org/横浜保育室数［箇所］>
+                "49" ;
+        <http://example.org/﻿年度（和暦）>   "令和1" .
+
+<http://example.org/hoiku21>
+        <http://example.org/保育所在籍児童数［人］>
+                "70601" ;
+        <http://example.org/保育所数［箇所］>  "1176" ;
+        <http://example.org/年度（西暦）>    "2022" ;
+        <http://example.org/待機児童数［人］>  "11" ;
+        <http://example.org/横浜保育室在籍児童数［人］>
+                "517" ;
+        <http://example.org/横浜保育室数［箇所］>
+                "20" ;
+        <http://example.org/﻿年度（和暦）>   "令和4" .
+
+<http://example.org/hoiku5>
+        <http://example.org/保育所在籍児童数［人］>
+                "31971" ;
+        <http://example.org/保育所数［箇所］>  "368" ;
+        <http://example.org/年度（西暦）>    "2006" ;
+        <http://example.org/待機児童数［人］>  "353" ;
+        <http://example.org/横浜保育室在籍児童数［人］>
+                "3287" ;
+        <http://example.org/横浜保育室数［箇所］>
+                "132" ;
+        <http://example.org/﻿年度（和暦）>   "平成18" .
+
+<http://example.org/hoiku11>
+        <http://example.org/保育所在籍児童数［人］>
+                "43332" ;
+        <http://example.org/保育所数［箇所］>  "507" ;
+        <http://example.org/年度（西暦）>    "2012" ;
+        <http://example.org/待機児童数［人］>  "179" ;
+        <http://example.org/横浜保育室在籍児童数［人］>
+                "4476" ;
+        <http://example.org/横浜保育室数［箇所］>
+                "152" ;
+        <http://example.org/﻿年度（和暦）>   "平成24" .
+
+<http://example.org/hoiku17>
+        <http://example.org/保育所在籍児童数［人］>
+                "64623" ;
+        <http://example.org/保育所数［箇所］>  "1005" ;
+        <http://example.org/年度（西暦）>    "2018" ;
+        <http://example.org/待機児童数［人］>  "63" ;
+        <http://example.org/横浜保育室在籍児童数［人］>
+                "2156" ;
+        <http://example.org/横浜保育室数［箇所］>
+                "63" ;
+        <http://example.org/﻿年度（和暦）>   "平成30" .
+
+<http://example.org/hoiku20>
+        <http://example.org/保育所在籍児童数［人］>
+                "69685" ;
+        <http://example.org/保育所数［箇所］>  "1146" ;
+        <http://example.org/年度（西暦）>    "2021" ;
+        <http://example.org/待機児童数［人］>  "16" ;
+        <http://example.org/横浜保育室在籍児童数［人］>
+                "873" ;
+        <http://example.org/横浜保育室数［箇所］>
+                "27" ;
+        <http://example.org/﻿年度（和暦）>   "令和3" .
+
+<http://example.org/hoiku4>
+        <http://example.org/保育所在籍児童数［人］>
+                "29264" ;
+        <http://example.org/保育所数［箇所］>  "327" ;
+        <http://example.org/年度（西暦）>    "2005" ;
+        <http://example.org/待機児童数［人］>  "643" ;
+        <http://example.org/横浜保育室在籍児童数［人］>
+                "3474" ;
+        <http://example.org/横浜保育室数［箇所］>
+                "137" ;
+        <http://example.org/﻿年度（和暦）>   "平成17" .
+
+<http://example.org/hoiku10>
+        <http://example.org/保育所在籍児童数［人］>
+                "40705" ;
+        <http://example.org/保育所数［箇所］>  "459" ;
+        <http://example.org/年度（西暦）>    "2011" ;
+        <http://example.org/待機児童数［人］>  "971" ;
+        <http://example.org/横浜保育室在籍児童数［人］>
+                "4330" ;
+        <http://example.org/横浜保育室数［箇所］>
+                "146" ;
+        <http://example.org/﻿年度（和暦）>   "平成23" .
+
+<http://example.org/hoiku16>
+        <http://example.org/保育所在籍児童数［人］>
+                "61885" ;
+        <http://example.org/保育所数［箇所］>  "938" ;
+        <http://example.org/年度（西暦）>    "2017" ;
+        <http://example.org/待機児童数［人］>  "2" ;
+        <http://example.org/横浜保育室在籍児童数［人］>
+                "2756" ;
+        <http://example.org/横浜保育室数［箇所］>
+                "84" ;
+        <http://example.org/﻿年度（和暦）>   "平成29" .
+
+<http://example.org/hoiku3>
+        <http://example.org/保育所在籍児童数［人］>
+                "26306" ;
+        <http://example.org/保育所数［箇所］>  "289" ;
+        <http://example.org/年度（西暦）>    "2004" ;
+        <http://example.org/待機児童数［人］>  "1190" ;
+        <http://example.org/横浜保育室在籍児童数［人］>
+                "3609" ;
+        <http://example.org/横浜保育室数［箇所］>
+                "137" ;
+        <http://example.org/﻿年度（和暦）>   "平成16" .
+
+<http://example.org/hoiku9>
+        <http://example.org/保育所在籍児童数［人］>
+                "38331" ;
+        <http://example.org/保育所数［箇所］>  "436" ;
+        <http://example.org/年度（西暦）>    "2010" ;
+        <http://example.org/待機児童数［人］>  "1552" ;
+        <http://example.org/横浜保育室在籍児童数［人］>
+                "4022" ;
+        <http://example.org/横浜保育室数［箇所］>
+                "128" ;
+        <http://example.org/﻿年度（和暦）>   "平成22" .
+
+<http://example.org/hoiku15>
+        <http://example.org/保育所在籍児童数［人］>
+                "58756" ;
+        <http://example.org/保育所数［箇所］>  "868" ;
+        <http://example.org/年度（西暦）>    "2016" ;
+        <http://example.org/待機児童数［人］>  "7" ;
+        <http://example.org/横浜保育室在籍児童数［人］>
+                "3259" ;
+        <http://example.org/横浜保育室数［箇所］>
+                "102" ;
+        <http://example.org/﻿年度（和暦）>   "平成28" .
